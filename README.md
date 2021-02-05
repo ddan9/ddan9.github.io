@@ -1,2 +1,3 @@
 # ddan9.github.io
-Something
+
+Some information about me designed as a website
