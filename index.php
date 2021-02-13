@@ -1,5 +1,1 @@
-<?php
-
-  echo "php Hello World!"
-
-?>
+ <?php echo '<p>Привет, мир!</p>'; ?>
